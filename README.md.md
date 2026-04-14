@@ -1,0 +1,1 @@
+This is a collection of notes made to help me study for my exams whilst studying in Rathmines College of Further Education
