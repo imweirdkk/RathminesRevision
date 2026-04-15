@@ -1,0 +1,7 @@
+- Agile
+- Scrum
+- Kanban
+- DevOps
+- Lean Development
+- Extreme Programming (XP)
+- Scaled Agile Framework (SAFe)
