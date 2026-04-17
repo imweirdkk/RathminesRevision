@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9a5183dd3eaf719f",
+            "id": "a74be561ddf9849d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoftArch/Modern Methodologies.md",
+                "file": "Networking/Static & DHCP/Static vs. DHCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modern Methodologies"
-            }
-          },
-          {
-            "id": "044d1da15eb8b955",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Topologies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Topologies"
+              "title": "Static vs. DHCP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,16 +183,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "044d1da15eb8b955",
+  "active": "a74be561ddf9849d",
   "lastOpenFiles": [
-    "README.md.md",
+    "Networking/Static & DHCP/Static IP.md",
+    "Networking/Static & DHCP/Static vs. DHCP.md",
+    "Networking/Core Networking Devices.md",
+    "Networking/Static & DHCP/DHCP - Dynamic Host Configuration Protocol.md",
+    "Networking/Static & DHCP",
     "Networking/Topologies.md",
-    "SoftArch/Modern Methodologies.md",
+    "Networking/Topologies/Hybrid Topology.md",
+    "Networking/Comparing Network Scopes.md",
+    "Networking/Network Topologies.md",
+    "Networking/Types of Networks/WAN - Wide Area Networks.md",
+    "Networking/Topologies/Tree (Hierarchical) Topology.md",
+    "Networking/Topologies/Mesh Topology.md",
+    "Networking/Topologies/Star Topology.md",
+    "Networking/Topologies/Bus Topology.md",
+    "Networking/Topologies/Ring Topology.md",
+    "Networking/Types of Networks/PAN - Personal Area Networks.md",
+    "Networking/Types of Networks/LAN - Local Area Networks.md",
+    "Networking/Types of Networks",
+    "Networking/Types of Networks/CAN - Campus Area Networks.md",
+    "Networking/Topologies",
     "Untitled",
-    "Untitled.base",
-    "Welcome.md",
-    "Networking",
-    "SoftArch",
-    "images"
+    "images/Hybrid Topology.jpg",
+    "images/Mesh Topology.jpg",
+    "images/Tree Topology.jpg",
+    "images/Star Topology.jpg",
+    "images/Dual Ring Topology.jpg",
+    "images/Ring Topology.jpg",
+    "images/Bus Topology.jpg",
+    "images/Pasted image 20260417143335.png",
+    "Networking/Types of Networks/SAN - Storage Area Networks.md",
+    "images/SAN.png",
+    "images/CAN.png",
+    "Networking/().md",
+    "AI/Neural Networks.md",
+    "AI/What is AI.md",
+    "AI/Stages of AI.md",
+    "Networking/Networks.md",
+    "images/~$signment 3 Report.docx",
+    "AI/Key Terms.md",
+    "images/Assignment 3 Report.docx",
+    "images/Unconfirmed 95774.crdownload",
+    "AI/Deep Learning.md",
+    "images/Unconfirmed 334969.crdownload",
+    "AI/Machine Learning.md",
+    "AI",
+    "Untitled.base"
   ]
 }
