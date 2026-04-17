@@ -1,5 +1,5 @@
 Neural networks are **networks of interconnected neurons, notes, or points,** that allow information to pass through them. An input enters the network, and after undergoing a series of calculations, an output is obtained at the other end.
-![[section05_Neural Network.png]]
+![[NeuralNetwork.png]]
 # The Key Characteristics of a Neural Network
 
 - A learning process is implemented to come up with the resultant knowledge
