@@ -1,0 +1,6 @@
+- **Judgment sampling**, a researcher will use their judgment to choose members of the sample
+	- We might choose the student council to ensure we have a member of each class group in the sample
+-  **Quota sampling**, we begin by dividing the population into strata as with stratified sampling. Instead of choosing proportionally from our strata however, we explicitly choose an equal number ("quota") from each stratum. This may or may not be random.
+	- We might divide students by age and then choose five people from each decade
+- **Snowball sampling**, participants are recruited by referral from existing participants (like a pyramid scheme)
+	- We might want to sample some students who are interested in photography. If we can find a few students who are interested in photography, they may know others through the photography club who could join the sample.

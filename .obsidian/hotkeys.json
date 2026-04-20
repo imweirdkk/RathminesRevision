@@ -41,5 +41,32 @@
       "key": "T"
     }
   ],
-  "workspace:close-window": []
+  "workspace:close-window": [],
+  "editor:table-col-align-center": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ],
+  "editor:table-col-after": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:table-row-after": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "J"
+    }
+  ]
 }

@@ -1,0 +1,6 @@
+- **Simple random sample**, every members of the population has an equal chance of being selected.
+	- We might collect the names of all students in a college into a list and use a random number generator to choose our sample
+- **Systematic sample**, a starting point is chosen randomly, hen the rest of the sample is chosen in regular intervals.
+	- We may collect the names of all students in a list and randomly generate a starting point. We may then pick every 7th student
+- **Stratified sample**, the population is divided by some criteria into **strata** and proportional samples are taken from those strata
+	- We might divide students in RC by age and choose proportionally from those strata (i.e. a lot of late teens, early 20s, fewer older students)

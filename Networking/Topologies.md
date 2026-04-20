@@ -8,12 +8,16 @@
 
 **Supportability:** Troubleshooting, and maintenance should be practical for the IT staff
 
-# Physical: 
+## Physical
+
 - How things are *actually connected*: where cables, wireless APs and devices sit and how they link together
-# Logical:
+
+## Logical
+
 - How data *moves*: the path frames/packets take at Layer 2/3 (who talks to whom, and in what order)
 
-# Comparison of basic topologies:
+## Comparison of basic topologies
+
 | Type                                   | Cost     | Scalability | Fault Tolerance               | Performace      |
 | -------------------------------------- | -------- | ----------- | ----------------------------- | --------------- |
 | [[Bus Topology\|Bus]]                  | Low      | Low         | Low                           | Low/Medium      |
